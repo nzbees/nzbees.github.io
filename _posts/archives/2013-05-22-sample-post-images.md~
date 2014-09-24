@@ -1,0 +1,20 @@
+---
+layout: post
+title: "2013 Mt. Parihaka"
+excerpt: "Examples and code for displaying images in posts."
+categories: background
+tags: [sample-post, images, test]
+comments: true
+share: true
+---
+<figure class="third">
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13111.jpg" alt="image"></a>
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13112.jpg" alt="image"></a>
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13113.jpg" alt="image"></a>
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13114.jpg" alt="">
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13115.jpg" alt="">
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13116.jpg" alt="">
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13117.jpg" alt="">
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13118.jpg" alt="">
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P13119.jpg" alt="">
+	<a href="http://placehold.it/500x500.jpg"><img src="../../images/P13/P131110.jpg" alt="">
