@@ -12,7 +12,10 @@ image:
 
 * This site stores a collection of images used to quantify the changes in populations of New Zealands native bees  
 
+<<<<<<< Updated upstream
 
 
 
 
+=======
+>>>>>>> Stashed changes

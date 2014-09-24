@@ -3,6 +3,7 @@ layout: page
 title: Image Archives
 image:
   feature: image_06.jpg
+  credit: Kaitiaki Creations
 ---
 
 <ul class="post-list">

@@ -3,6 +3,7 @@ layout: page
 title: Software
 image:
   feature: image_05.jpg
+  credit: Kaitiaki Creations
 ---
 
 

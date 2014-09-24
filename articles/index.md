@@ -4,6 +4,7 @@ title: Articles
 excerpt: "An archive of articles sorted by date."
 image:
   feature: image_02.jpg
+  credit: Kaitiaki Creations
 ---
 
 <ul class="post-list">
