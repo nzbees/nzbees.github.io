@@ -1,0 +1,102 @@
+[
+	
+		{
+		  "title"      : "A sample post with a video",
+		  "category"   : "",
+      "tags"       : "sample-post and video",
+		  "url"        : "/articles/sample-videopost/",
+		  "date"       : "2014-10-02 00:00:00 +1300",
+		  "shortdate"  : "October 02, 2014"
+		} ,
+	
+		{
+		  "title"      : "Solitary life",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/articles/ecologicalinfo-sb/",
+		  "date"       : "2014-10-01 00:00:00 +1300",
+		  "shortdate"  : "October 01, 2014"
+		} ,
+	
+		{
+		  "title"      : "FIJI",
+		  "category"   : "",
+      "tags"       : "Image analysis",
+		  "url"        : "/software/tools-FIJI/",
+		  "date"       : "2014-08-09 07:39:55 +1200",
+		  "shortdate"  : "August 09, 2014"
+		} ,
+	
+		{
+		  "title"      : "Hello World",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/articles/samplepost/",
+		  "date"       : "2014-08-09 07:39:55 +1200",
+		  "shortdate"  : "August 09, 2014"
+		} ,
+	
+		{
+		  "title"      : "Random forests",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/background/backstory-rf/",
+		  "date"       : "2014-08-09 07:39:55 +1200",
+		  "shortdate"  : "August 09, 2014"
+		} ,
+	
+		{
+		  "title"      : "Radar entomology",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/background/backstory-re/",
+		  "date"       : "2014-08-09 07:39:55 +1200",
+		  "shortdate"  : "August 09, 2014"
+		} ,
+	
+		{
+		  "title"      : "Machine learning",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/background/backstory-ml/",
+		  "date"       : "2014-08-09 07:39:55 +1200",
+		  "shortdate"  : "August 09, 2014"
+		} ,
+	
+		{
+		  "title"      : "Image analysis",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/background/backstory-ia/",
+		  "date"       : "2014-08-09 07:39:55 +1200",
+		  "shortdate"  : "August 09, 2014"
+		} ,
+	
+		{
+		  "title"      : "T13",
+		  "category"   : "",
+      "tags"       : "Mt. Tiger 2013 - Rep 1",
+		  "url"        : "/archives/image-archive-T/",
+		  "date"       : "2013-10-01 00:00:00 +1300",
+		  "shortdate"  : "October 01, 2013"
+		} ,
+	
+		{
+		  "title"      : "P13",
+		  "category"   : "",
+      "tags"       : "Mt. Parihaka 2013 - Rep 1",
+		  "url"        : "/archives/image-archive-P/",
+		  "date"       : "2013-10-01 00:00:00 +1300",
+		  "shortdate"  : "October 01, 2013"
+		} ,
+	
+		{
+		  "title"      : "M13",
+		  "category"   : "",
+      "tags"       : "Memorial Dr. 2013 - Rep 1",
+		  "url"        : "/archives/image-archive-M/",
+		  "date"       : "2013-10-01 00:00:00 +1300",
+		  "shortdate"  : "October 01, 2013"
+		} 
+	
+]
