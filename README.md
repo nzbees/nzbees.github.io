@@ -1,4 +1,3 @@
-nzb
+Image based monitoring project for NZ Bees
 ===
 
-Image Data Monitoring NZ Bees
