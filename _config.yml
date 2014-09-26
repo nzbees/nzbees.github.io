@@ -33,6 +33,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
   owner:
   name: Ngaire Hart
-  #avatar: bio-photo.jpg
+  avatar: bio-photo.jpg
   email: ngaire.hart@gmail.com
 
